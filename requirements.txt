@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+statsmodels
+yfinance
+streamlit
+plotly
+sqlalchemy
+pydantic-settings
+pytest
+ruff

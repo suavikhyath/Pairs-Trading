@@ -1,0 +1,11 @@
+{
+  "source": "yfinance",
+  "tickers": [
+    "KO",
+    "PEP"
+  ],
+  "start_date": "2024-01-01",
+  "end_date": "2025-01-01",
+  "downloaded_at": "2026-10-25T14:55:21.221513+05:30",
+  "price_adjustment": "auto_adjust=True"
+}
