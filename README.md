@@ -1,5 +1,1 @@
-Some random placeholder for now.
-
-Some random branch test
-
-hello
+Hey, this is my project called StatArb, on pairs trading.
